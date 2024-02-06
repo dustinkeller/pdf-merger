@@ -5,7 +5,7 @@ A simple command line script that can merge multiple pdf files together into a s
 ## Usage
 Open the terminal, navigate to directory containing this script, and run
 ```
-python3 merge_pdf.py /your/destination/directory/ /your/pdf/path1 /yourpdf/path2/ ...
+python3 merge_pdf.py /your/destination/directory/ /your/pdf/path1.pdf/ /yourpdf/path2.pdf/ ...
 ```
 Note that the destination directory can either already exist or be created automatically using the script.
 
